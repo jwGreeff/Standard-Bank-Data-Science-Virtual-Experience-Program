@@ -1,9 +1,10 @@
 # Standard Bank Data Science Virtual Experience Program
 
-### Task 1 - SQL for Data Scientists
+Following topics are explored: <br><br>
+<b>Task 1 - </b>SQL for Data Scientists<br>
 
-### Task 2 - Data Science with Python (AutoML vs Bespoke ML)
+<b>Task 2 - </b>Data Science with Python (AutoML vs Bespoke ML)<br>
 
-### Task 3 - Preparing To Present
+<b>Task 3 - </b>Preparing To Present<br>
 
-### Task 4 - Putting It All Together
+<b>Task 4 - </b>Putting It All Together<br>
